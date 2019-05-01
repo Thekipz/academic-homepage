@@ -15,10 +15,5 @@ weight = 60
 
 +++
 
-I taught the following courses:
 
-- University of Texas at Arlington
-    - CS4334/5334: Introduction to Data Mining
-- University of Maryland at College Park
-    - INST462: Introduction to Data Visualization
     
