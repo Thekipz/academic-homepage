@@ -17,30 +17,16 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Computer Science"
-  institution = "University of Maryland at College Park"
-  year = 2018
 
 [[education.courses]]
-  course = "MS in Interdisciplinary Engineering"
-  institution = "Purdue University"
-  year = 2014
+  course = "BSc in Software Engineering"
+  institution = "University of Texas at Arlington"
+  year = 2019
 
 
-[[education.courses]]
-  course = "MS in Biomedical Engineering"
-  institution = "Seoul National University"
-  year = 2002
-
-
-[[education.courses]]
-  course = "BSc in Electrical Engineering"
-  institution = "Seoul National University"
-  year = 2000
  
 +++
 
 # Biography
 
-Deokgun Park is an assistant professor of Computer Science and Engineering Department at the University of Texas at Arlington. His research interests include open-ended tasks, visual analytics and text mining. He leads the Human Data Interaction Lab, which studies the way humans conduct exploratory data analysis, interactive tools for text mining, and testbed for artificial general intelligence (AGI).  
+Tyler Adkins is a senior at the University of Texas at Arlington pursuing a BSc in Software Engineering with an expected graduation date of 12/2019. 
