@@ -110,7 +110,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Deokgun Park is an assistant professor at UTA. His research focuses on the computational methods for open-ended tasks. He tries to scale up human's ability to solve those tasks using information visualization and visual analytics."
+  description = " "
   
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = "profile.jpg"
@@ -258,7 +258,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/cv.pdf"
+    link = "files/tyleradkinsresume-2.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
