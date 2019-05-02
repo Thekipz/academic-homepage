@@ -17,11 +17,16 @@ Available icon packs and icons:
 * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 * ai - academic icons (see https://jpswalsh.github.io/academicons/)
-[[feature]] icon = "cuttlefish" icon_pack = "fab" name = "C" description = "70%"
+[[feature]] icon = "cuttlefish" icon_pack = "fab" name = "C" description = "90%"
 
-[[feature]] icon = "plus-square" icon_pack = "fas" name = "C++" description = "50%"
+[[feature]] icon = "plus-square" icon_pack = "fas" name = "C++" description = "90%"
 
-[[feature]] icon = "python" icon_pack = "fab" name = "Python" description = "50%"
+[[feature]] icon = "python" icon_pack = "fab" name = "Python" description = "70%"
 
+[[feature]] icon = "wind" icon_pack = "fas" name = "Tensorflow" description = "70%"
+
+[[feature]] icon = "chart-line" icon_pack = "fas" name = "Statistics" description = "100%"
+
+[[feature]] icon = "camera-retro" icon_pack = "fas" name = "Photography" description = "60%"
 
 +++
