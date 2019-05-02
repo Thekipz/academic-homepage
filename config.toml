@@ -113,7 +113,7 @@ enableGitInfo = false
   description = " "
   
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "profile.jpg"
+  sharing_image = "profile.jpg.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   
@@ -214,7 +214,7 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Publication list format.
     #   0 = Simple
