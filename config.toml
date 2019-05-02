@@ -8,11 +8,8 @@
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 
 # baseurl = "https://intuinno.github.io/"
-#baseurl = "http://crystal.uta.edu/~park/"
+baseurl = "/"
 
-
-relativeURLS = true
-canonifyurls = true
 
 # Title of your site
 title = "Tyler Adkins"
@@ -50,7 +47,7 @@ enableGitInfo = false
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
-  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  fractions = false  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
