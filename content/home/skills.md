@@ -25,36 +25,19 @@ weight = 7
   icon = "cuttlefish"
   icon_pack = "fab"
   name = "C"
-  description = "90%"
+  description = "80%"
   
   [[feature]]
   icon = "plus-square"
   icon_pack = "fas"
   name = "C++"
-  description = "90%"
+  description = "70%"
   
   [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%"
-  
-   [[feature]]
-  icon = "wind"
-  icon_pack = "fas"
-  name = "Tensorflow"
-  description = "70%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
   description = "60%"
+  
 
 +++
