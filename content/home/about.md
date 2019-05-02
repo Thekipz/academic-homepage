@@ -11,9 +11,6 @@ weight = 5
 [interests]
   interests = [
     "Open-ended Tasks",
-    "Visual Analytics",
-    "Text Mining",
-    "Artificial General Intelligence (AGI)",
   ]
 
 # List your qualifications (such as academic degrees).
