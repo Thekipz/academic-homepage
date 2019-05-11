@@ -11,6 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Open-ended Tasks",
+    "Machine Learning",
+    "Data Science",
+    "Weight Lifting",
+    
   ]
 
 # List your qualifications (such as academic degrees).
