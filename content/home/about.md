@@ -13,6 +13,7 @@ weight = 5
     "Open-ended Tasks",
     "Machine Learning",
     "Data Science",
+    "Efficiency",
     "Weight Lifting",
     
   ]
