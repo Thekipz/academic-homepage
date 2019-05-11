@@ -34,10 +34,23 @@ weight = 7
   description = "70%"
   
   [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "60%"
+  
+  [[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Unix/Linux"
+  description = "75%"
+  
+  
+  [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "60%"
+  description = "70%"
   
 
 +++
